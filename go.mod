@@ -4,7 +4,7 @@ go 1.22.3
 
 require (
 	github.com/VictoriaMetrics/metrics v1.33.1
-	github.com/grassrootseconomics/celo-tracker v1.0.2-beta
+	github.com/grassrootseconomics/celo-tracker v1.0.5-beta
 	github.com/jackc/pgx/v5 v5.6.0
 	github.com/jackc/tern/v2 v2.1.1
 	github.com/kamikazechaser/common v0.2.0
